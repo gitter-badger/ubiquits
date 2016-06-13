@@ -6,6 +6,8 @@
 
 # Core Module
 ## Note
+
+[![Join the chat at https://gitter.im/ubiquits/ubiquits](https://badges.gitter.im/ubiquits/ubiquits.svg)](https://gitter.im/ubiquits/ubiquits?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Ubiquits is currently pre-alpha. Follow https://twitter.com/ubiquits for updates
 
 ## Overview
